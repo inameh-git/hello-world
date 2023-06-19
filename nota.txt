@@ -1,0 +1,3 @@
+Soy una nota de texto de prueba
+Para conectividad Python
+123456
